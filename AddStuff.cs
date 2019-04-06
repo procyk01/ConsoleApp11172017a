@@ -5,7 +5,7 @@ public class AddStuff
 	public AddStuff()
 	{
         //Console.Write("This is the answer: " + i + j);
-        Console.Write("In AddStuff()");
+        Console.WriteLine("In AddStuff constructor");
 	}
 
     public void jpAdd(int i, int j)
